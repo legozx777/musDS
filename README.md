@@ -1,4 +1,4 @@
-# mus
+# musDS
 
 ## Description
 This is my yt-dlp wrapper and music metadata manager. There is no gui and no plans to implement one, only a cli.
